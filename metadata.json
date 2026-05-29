@@ -1,0 +1,6 @@
+{
+  "name": "Talmud Explainer and Translator",
+  "description": "Analyze, explain, and translate any passage of the Talmud with English and Hebrew explanations, context, structure, and keyword breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
